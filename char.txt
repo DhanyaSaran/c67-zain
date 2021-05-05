@@ -2,3 +2,7 @@ birds
 pigs
 logs
 slingshot
+boxes
+ground
+abc
+def
